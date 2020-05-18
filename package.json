@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "template-express-mongo",
   "version": "1.0.0",
   "description": "Templates para proyectos sin VueJS",
   "main": "./src/assets/js/main.js",
@@ -30,14 +30,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gonzafg2/Template-Proyectos-No-VueJS.git"
+    "url": "git+https://github.com/gonzafg2/Template-Proyectos-Express-Mongo-No-VueJS.git"
   },
   "keywords": [
     "babel",
     "webpack"
   ],
   "bugs": {
-    "url": "https://github.com/gonzafg2/Template-Proyectos-No-VueJS/issues"
+    "url": "https://github.com/gonzafg2/Template-Proyectos-Express-Mongo-No-VueJS/issues"
   },
-  "homepage": "https://github.com/gonzafg2/Template-Proyectos-No-VueJS#readme"
+  "homepage": "https://github.com/gonzafg2/Template-Proyectos-Express-Mongo-No-VueJS#readme"
 }
